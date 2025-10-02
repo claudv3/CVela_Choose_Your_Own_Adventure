@@ -1,0 +1,47 @@
+body {
+    background-color: #C0362C;
+}
+
+header {
+    text-align: center;
+    font-family: helvetica;
+    padding: 20px;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+div {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 30px;
+    font-family: 'Courier';
+    max-width: 1000px;
+    margin: auto;
+    font-size: 20px;
+    
+}
+
+img {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section {
+    text-align: center;
+    padding: 50px;
+}
+
+button {
+    background-color: #C0362C;
+    color: #ffffff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #004700;
+}
